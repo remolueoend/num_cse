@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+echo "main.cpp" | entr -c sh -c "make && ./main"
